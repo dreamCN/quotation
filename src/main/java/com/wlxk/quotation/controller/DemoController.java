@@ -1,4 +1,4 @@
-package com.wlxk.quotation.web;
+package com.wlxk.quotation.controller;
 
 import com.wlxk.quotation.common.BaseResult;
 import com.wlxk.quotation.dao.UserDao;
