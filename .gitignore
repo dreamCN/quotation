@@ -80,3 +80,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# web
+**/webapp/node_modules
+**/webapp/yarn.lock
+**/webapp/dist
